@@ -379,3 +379,6 @@ Yes
 **Kevin Linarto**: MainScene, Graphics (Post process), Shader (Toon shader), Particles (Fog & Campfire)
 
 **Nikolas Leander Putra**: Grappling physics implementation, Shader (Flag shader), Particles (Fog & Confetti), Movement (player movement)
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
